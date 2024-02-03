@@ -15,3 +15,4 @@
 - Conquering Responsive Layouts
 - Learn CSS Today
 - Flexbox Simplified
+- React Hooks Simplified
