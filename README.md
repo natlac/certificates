@@ -3,9 +3,10 @@
 **Udemy**
 
 - React Native - The Practical Guide [2024]
-- Modern Copywriting: copy that sells in 2020
-- Certificate in Search engine Marketing
+- The Git & Github Bootcamp
+- Certificate in Search Engine Marketing
 - Email Marketing: Build Responsive HTML Emails using MJML
+- Modern Copywriting: copy that sells in 2020
 
 **Scrimba**
 
