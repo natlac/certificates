@@ -2,6 +2,7 @@
 
 **Udemy**
 
+- Web Components & Stencil.js - Build Custom HTML Elements
 - React Native - The Practical Guide [2024]
 - The Git & Github Bootcamp
 - Certificate in Search Engine Marketing
