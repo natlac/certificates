@@ -9,6 +9,12 @@
 - Email Marketing: Build Responsive HTML Emails using MJML
 - Modern Copywriting: copy that sells in 2020
 
+**NetNinja**
+
+- GraphQL Crash Course
+- Learn Go (Goland)
+- Next 13 Masterclass
+
 **Scrimba**
 
 - Advanced React
