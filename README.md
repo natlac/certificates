@@ -2,6 +2,7 @@
 
 **Udemy**
 
+- Rust: The Complete Developer's Guide
 - Web Components & Stencil.js - Build Custom HTML Elements
 - React Native - The Practical Guide [2024]
 - The Git & Github Bootcamp
