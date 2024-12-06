@@ -1,5 +1,10 @@
 # 🏆 Certificates & Courses
 
+**Frontend Masters**
+- JavaScript: The Hard Parts, v2
+- Vanilla JS: You Might Not Need a Framework
+- The Hard Parts of Asynchronous Javascript
+
 **Udemy**
 
 - Rust: The Complete Developer's Guide
@@ -13,7 +18,7 @@
 **NetNinja**
 
 - GraphQL Crash Course
-- Learn Go (Goland)
+- Learn Go (Golang)
 - Next 13 Masterclass
 
 **Scrimba**
