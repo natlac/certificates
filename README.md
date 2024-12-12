@@ -4,6 +4,8 @@
 - JavaScript: The Hard Parts, v2
 - Vanilla JS: You Might Not Need a Framework
 - The Hard Parts of Asynchronous Javascript
+- Web Performance Fundamentals, v2
+
 
 **Udemy**
 
