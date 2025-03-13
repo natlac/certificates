@@ -1,14 +1,16 @@
 # 🏆 Certificates & Courses
 
 **Frontend Masters**
+
 - JavaScript: The Hard Parts, v2
 - Vanilla JS: You Might Not Need a Framework
 - The Hard Parts of Asynchronous Javascript
 - Web Performance Fundamentals, v2
 
-
 **Udemy**
 
+- React Query / TanStack Query: React Server State Management
+- Fundamentals of Network Engineering
 - Rust: The Complete Developer's Guide
 - Web Components & Stencil.js - Build Custom HTML Elements
 - React Native - The Practical Guide [2024]
