@@ -7,6 +7,10 @@
 - The Hard Parts of Asynchronous Javascript
 - Web Performance Fundamentals, v2
 
+**Total Typescript**
+
+- Typescript Pro Essentials workshop
+
 **Udemy**
 
 - React Query / TanStack Query: React Server State Management
