@@ -1,17 +1,17 @@
 # 🏆 Certificates & Courses
 
-**Frontend Masters**
+**Frontend Masters** [🔗](https://frontendmasters.com/)
 
 - JavaScript: The Hard Parts, v2
 - Vanilla JS: You Might Not Need a Framework
 - The Hard Parts of Asynchronous Javascript
 - Web Performance Fundamentals, v2
 
-**Total Typescript**
+**Total Typescript** [🔗](https://www.totaltypescript.com/)
 
 - Typescript Pro Essentials workshop
 
-**Udemy**
+**Udemy** [🔗](https://www.udemy.com/)
 
 - React Query / TanStack Query: React Server State Management
 - Fundamentals of Network Engineering
@@ -23,19 +23,21 @@
 - Email Marketing: Build Responsive HTML Emails using MJML
 - Modern Copywriting: copy that sells in 2020
 
-**NetNinja**
+**NetNinja** [🔗](https://netninja.dev/)
 
 - GraphQL Crash Course
 - Learn Go (Golang)
 - Next 13 Masterclass
 
-**Scrimba**
+**Scrimba** [🔗](https://scrimba.com/home)
 
+- Learn React
 - Advanced React
 
 **Miscellaneous**
 
-- Conquering Responsive Layouts
-- Learn CSS Today
-- Flexbox Simplified
-- React Hooks Simplified
+- React Hooks Simplified [Web Dev Simplified]
+- React Hooks Simplified [Web Dev Simplified]
+- Learn CSS Today [Web Dev Simplified]
+- Conquering Responsive Layouts [Kevin Powell]
+- Flexbox Simplified [Kevin Powell]
