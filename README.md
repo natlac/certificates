@@ -2,6 +2,7 @@
 
 **Frontend Masters** [🔗](https://frontendmasters.com/)
 
+- Design Systems with Storybook, V2
 - JavaScript: The Hard Parts, v2
 - Vanilla JS: You Might Not Need a Framework
 - The Hard Parts of Asynchronous Javascript
@@ -13,6 +14,7 @@
 
 **Udemy** [🔗](https://www.udemy.com/)
 
+- Flutter Zero to Hero - Complete Crash Course
 - React Query / TanStack Query: React Server State Management
 - Fundamentals of Network Engineering
 - Rust: The Complete Developer's Guide
